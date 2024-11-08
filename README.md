@@ -24,8 +24,8 @@ This application allows users to create, read, update, and delete recipes. It is
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/username/recipes-app.git
-   cd recipes-app
+   git clone https://github.com/suhailpno/FSD-WD-T-B4-T10.git
+   cd FSD-WD-T-B4-T10
    ```
 
 2. **Install Dependencies**
