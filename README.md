@@ -38,8 +38,8 @@ This application allows users to create, read, update, and delete recipes. It is
    Create a `.env` file in the root directory and add the following variables:
 
    ```env
-   PORT=3000
-   MONGODB_URI=mongodb://localhost:27017/recipes-app
+   PORT=5000
+   MONGODB_URI=mongodb://localhost:27017/FSD-WD-T-B4-T10
    ```
 
 4. **Run the Application**
