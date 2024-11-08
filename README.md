@@ -67,7 +67,7 @@ This application allows users to create, read, update, and delete recipes. It is
          }
 
 - `PUT /recipes/:id`: Update an existing recipe by ID
-         http://localhost:5000/recipes/672dcd3a3c269680c226b849
+         http://localhost:5000/recipes/672ddd6e2333724637ab174c
          
          {
             "name": "Updated Spaghetti",
@@ -76,7 +76,7 @@ This application allows users to create, read, update, and delete recipes. It is
          }
 
 - `DELETE /recipes/:id`: Delete a recipe by ID
-         http://localhost:5000/recipes/672dce1b3c269680c226b84d
+         http://localhost:5000/recipes/672ddd6e2333724637ab174c
 
 ## Testing with Postman
 
