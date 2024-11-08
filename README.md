@@ -39,7 +39,7 @@ This application allows users to create, read, update, and delete recipes. It is
 
    ```env
    PORT=5000
-   MONGODB_URI=mongodb://localhost:27017/FSD-WD-T-B4-T10
+   MONGODB_URI=mongodb://localhost:27017/recipes
    ```
 
 4. **Run the Application**
