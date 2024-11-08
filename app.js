@@ -2,6 +2,8 @@ const express = require("express");
 const app = express();
 const connectDB = require("./config/db");
 const recipeRoutes = require("./routes/recipeRoutes");
+require("dotenv").config();
+
 
 // Middleware
 app.use(express.json()); // Parse incoming JSON
